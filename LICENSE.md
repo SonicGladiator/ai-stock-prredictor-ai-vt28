@@ -1,4 +1,4 @@
-# 
+# Open Source AI Stock Price Predictor scripts. Avec IA dans le cloud et éthique de l'IA — optimisé pour des performances maximales.
 
 
 
